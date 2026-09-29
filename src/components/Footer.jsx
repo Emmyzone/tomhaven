@@ -14,7 +14,7 @@ export default function Footer() {
           <Link to="/phones">Phones</Link>
           <Link to="/about">About</Link>
           <Link to="/contact">Contact</Link>
-        
+          <Link to="/admin/login">Admin login</Link>
         </div>
       </div>
       <div className="wrap footer-base">
